@@ -1,11 +1,14 @@
-# Hi there, I'm Aaron! 👋
+<h1>Hi, I'm Aaron! <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Cybersecurity Professional</a>
 
-- 👀 I'm interested in everything from cybersecurity to video games.
-- 🌱 I'm currently a business major with a concentration in Management Information Systems at California Polytechnic University.
-- 📫 You can reach me at AEMontano99@gmail.com
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Feel free to connect and collaborate on exciting projects!
+- <b>CyberRiskGuard: A Cybersecurity Risk Management System</b>
+  - [Praciting cybersecurity risk management](https://github.com/AaronMontano99/Cybersecurity-risk)
+- <b>CryptoLock: Secure Password Manager</b>
+  - [Encrypted password management](https://github.com/AaronMontano99/Password-Manager)
 
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://linkedin.com/in/aaronmontano
 
 <!---
 AaronMontano99/AaronMontano99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
