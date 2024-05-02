@@ -4,8 +4,6 @@
 
 - <b>CyberRiskGuard: A Cybersecurity Risk Management System</b>
   - [Praciting cybersecurity risk management](https://github.com/AaronMontano99/Cybersecurity-risk)
-- <b>CryptoLock: Secure Password Manager</b>
-  - [Encrypted password management](https://github.com/AaronMontano99/Password-Manager)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: https://linkedin.com/in/aaronmontano
