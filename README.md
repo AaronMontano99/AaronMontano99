@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Aaron—a Python specialist and cybersecurity professional. I have a strong passion for crafting compelling data visualizations using Python and Tableau. Proudly, I graduated from California Polytechnic State University with a degree in Business Administration, concentrating on Management Information Systems. <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Data Visualization and Cyber Secuirty Professional</a>
+<h1> Hi, I'm Aaron — a Python specialist and cybersecurity professional. Proudly, I graduated from California Polytechnic State University with a degree in Business Administration, concentrating on Management Information Systems. <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Data Visualization and Cyber Secuirty Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
