@@ -1,4 +1,4 @@
-<h1> Hi, I'm Aaron — a Python specialist and cybersecurity professional. Proudly, I graduated from California Polytechnic State University with a degree in Business Administration, concentrating on Management Information Systems. <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Data Visualization and Cyber Secuirty Professional</a>
+<h1> Hi, I'm Aaron — a Business grad with a concentration in MIS, Python builder, cybersecurity background, now in technical sales <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Data Visualization and Cyber Secuirty Professional</a>
 
 <h2>👨‍💻 Projects:</h2>
 
