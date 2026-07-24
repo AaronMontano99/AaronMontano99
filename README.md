@@ -1,11 +1,8 @@
-><h1 align="center">Hey, I'm Aaron 🎲</h1>
+<h1 align="center">Hey, I'm Aaron. 🎲</h1>
 
-<p align="center">
-Buidling. Connecting. Leveling Up.
-</p>
+Sometimes I build things that solve problems I run into every day. Right now I'm focused on creating AI-powered applications.
 
-Sometimes I build stuff that solves my day to day problems. Right now I'm focused on creating AI-powered applications
-
+## 🎰 Projects
 
 ### Toci OS — Adaptive AI Fitness Coach
 > Lift. Run. Recover. Progress. Repeat.
