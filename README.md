@@ -4,10 +4,9 @@
 
 - <b>CyberRiskGuard: A Cybersecurity Risk Management System</b>
   - [Praciting cybersecurity risk management](https://github.com/AaronMontano99/Cybersecurity-risk)
-- <b>Level 0 Context dataflow diagram practice<b>
-  - https://github.com/AaronMontano99/Level-0-Context-DFD
-- <b>Python baseball data visualization<b>
-  - https://github.com/AaronMontano99/Baseball-Data-Visualization
+- <b>TBD<b>
+  - https://github.com/AaronMontano99
+
     
 
 <h2> 🤳 Connect with me:</h2>
