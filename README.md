@@ -4,6 +4,8 @@
 
 - <b>CyberRiskGuard: A Cybersecurity Risk Management System</b>
   - [Praciting cybersecurity risk management](https://github.com/AaronMontano99/Cybersecurity-risk)
+- <b>Hybrid OS: An Adaptive AI Fitness Coach</b>
+  - [Lift. Run. Recover. Progress. Repeat.](https://github.com/AaronMontano99/Fitness-App)
 - <b>TBD<b>
   - https://github.com/AaronMontano99
 
