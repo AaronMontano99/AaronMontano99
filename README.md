@@ -1,4 +1,4 @@
-<h1> Hi, I'm Aaron — a Business grad with a concentration in MIS, Python builder, cybersecurity background, now in technical sales <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">Data Visualization and Cyber Secuirty Professional</a>
+<h1> Some people call me Aaron but you can call me handsome (; <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/">AI Enjoyer</a>
 
 <h2>👨‍💻 Projects:</h2>
 
