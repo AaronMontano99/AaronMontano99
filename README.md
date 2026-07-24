@@ -1,16 +1,24 @@
-<h1>  <br/><a href="https://github.com/AaronMontano99" <a href="https://www.linkedin.com/in/aaronmontano/"
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2bbd7c1-6960-4c7a-9c3e-f148876f6bc9" /><h1 align="center">Hey, I'm Aaron 🎲</h1>
 
-<h2>Projects:</h2>
+<p align="center">
+Buidling. Connecting. Leveling Up.
+</p>
 
-- <b>Toci OS: An Adaptive AI Fitness Coach</b>
-  - [Lift. Run. Recover. Progress. Repeat.](https://github.com/AaronMontano99/Toci-OS)
+Sometimes I build stuff that solves my day to day problems. Right now I'm focused on creating AI-powered applications
 
-  
 
-    
+### Toci OS — Adaptive AI Fitness Coach
+> Lift. Run. Recover. Progress. Repeat.
 
-<h2>Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/aaronmontano
+A native iOS and Android fitness app that acts like a personal strength coach, endurance coach, and recovery coach in your pocket. Instead of simply logging workouts, Toci OS analyzes performance, recovery, nutrition, and wearable data to automatically recommend what you should do next.
+
+🔗 https://github.com/AaronMontano99/Toci-OS
+
+---
+
+## 🧩 Connect with me
+
+- LinkedIn: https://linkedin.com/in/aaronmontano
 
 <!---
 AaronMontano99/AaronMontano99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
