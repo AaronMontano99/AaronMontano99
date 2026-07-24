@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a2bbd7c1-6960-4c7a-9c3e-f148876f6bc9" /><h1 align="center">Hey, I'm Aaron 🎲</h1>
+><h1 align="center">Hey, I'm Aaron 🎲</h1>
 
 <p align="center">
 Buidling. Connecting. Leveling Up.
