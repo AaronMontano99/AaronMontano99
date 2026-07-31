@@ -9,7 +9,7 @@ Sometimes I build things that solve problems I run into every day. Right now I'm
 
 A native iOS and Android fitness app that acts like a personal strength coach, endurance coach, and recovery coach in your pocket. Instead of simply logging workouts, Toci OS analyzes performance, recovery, nutrition, and wearable data to automatically recommend what you should do next.
 
-🔗 My eyes only...
+🔗 (https://github.com/AaronMontano99/Toci-OS)
 
 ---
 
